@@ -21,10 +21,5 @@ export class TransactionService {
   }
   
 
-  // deleteTransaction(transaction: Transaction): void {
-  //   const index = this.transactions.indexOf(transaction);
-  //   if (index !== -1) {
-  //     this.transactions.splice(index, 1);
-  //   }
-  // }
+ 
 }

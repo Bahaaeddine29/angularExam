@@ -37,6 +37,6 @@ export const TRANSACTIONS_MOCK: Transaction [] = [
         amount: -35.0,
         category: 'Dépense',
         date: new Date('2023-09-25'),
-      },
+    },
 
   ];

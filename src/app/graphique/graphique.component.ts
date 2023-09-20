@@ -32,6 +32,7 @@ export class GraphiqueComponent implements OnInit {
       type: 'pie',
       data: data
     });
+    
   }
 }
 
